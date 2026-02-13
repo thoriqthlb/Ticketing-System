@@ -17,4 +17,4 @@ Program ini adalah simulasi sistem manajemen tiket IT Support berbasis Command L
 ### 🚀 Cara Menjalankan
 1. Pastikan Anda sudah menginstal Python.
 2. Download atau clone repository ini.
-3. Jalankan di terminal: `python Ticketing-System.py`
+3. Jalankan di terminal: `python AntreanTiket.py`
